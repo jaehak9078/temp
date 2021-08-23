@@ -1,0 +1,11 @@
+body {
+  background-color: #1b1b1b;
+  margin: 0;
+  font-family: NotoSansKR;
+  color: #eeeeee;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("./assets/font/NotoSansKR-Regular.otf");
+}
